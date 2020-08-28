@@ -18,7 +18,7 @@ export default {
   data() {
     return {
       x: 0,
-      y: 1,
+      y: 2,
     }
   }
 }
