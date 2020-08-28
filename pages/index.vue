@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <div>
+      ゆずずずず
       <ul>
         <li><a href="https://twitter.com/makudona_poteko">@makudona_poteko</a></li>
         <li><a href="https://note.com/yuzukomemo/n/n2edbf5a98d6c">ゆずもめも（noteホーム）</a></li>
