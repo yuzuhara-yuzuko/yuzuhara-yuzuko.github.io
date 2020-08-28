@@ -26,6 +26,11 @@ export default {
 </script>
 
 <style>
+body {
+  background-color: hsl(325,100%,40%)
+  color: #f5f5f5;
+}
+
 .container {
   margin: 0 auto;
   min-height: 100vh;
