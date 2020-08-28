@@ -59,6 +59,9 @@ export default {
     publicPath: 'nuxt',
   },
   router: {
-    base: '/dist/',
+    base: '/home/',
+  },
+  generate: {
+    dir: 'home',
   }
 }
