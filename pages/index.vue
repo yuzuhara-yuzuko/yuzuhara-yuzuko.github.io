@@ -27,7 +27,7 @@ export default {
 
 <style>
 body {
-  background-color: hsl(325,100%,40%)
+  background-color: hsl(325,100%,40%);
   color: #f5f5f5;
 }
 
