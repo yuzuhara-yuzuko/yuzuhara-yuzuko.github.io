@@ -57,7 +57,7 @@ export default {
   */
   build: {
   },
-  routes: {
+  router: {
     base: '/dist/',
   }
 }
